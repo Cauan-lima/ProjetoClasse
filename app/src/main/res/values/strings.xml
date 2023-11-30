@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjetoClasse</string>
+    <string name="nome" />
+    <string name="logar_erro" />
+    <string name="login" />
+    <string name="senha" />
+    <string name="confirmarSenha" />
+</resources>
